@@ -1,0 +1,11 @@
+{
+  "id": "IS-T04-CL01",
+  "titulo": "Ejemplo de metadatos (no actividad publicada)",
+  "tipo": "codelab",
+  "temas": [
+    "04-diseno-desarrollo"
+  ],
+  "ruta": "actividades/codelabs/",
+  "estado": "planificado",
+  "evaluacion": "por definir"
+}
